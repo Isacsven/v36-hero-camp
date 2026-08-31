@@ -4,3 +4,13 @@
     color: #ffffff;
     font-family: sans-serif;
 }
+
+.hero .btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.6rem 1rem;
+    background-color: #fde68a;
+    color: #0f172a;
+    font-weight: 700;
+    text-decoration: none;
+}
